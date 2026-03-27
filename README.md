@@ -20,19 +20,21 @@ THIS PROJECT IS CURRENTLY WORK IN PROGRESS, EXPECT MANY CRASHES AND RANDOM BUGS 
 
 
 How to install (Windows 7)?
-1) Download the latest release, depending on what OS you are on
-2) Extract the ZIP file, copy everything in it
-3) Paste all files into your BeamNG Bin64 folder
-4) Launch the game by double clicking on the BeamNG executable (still in the Bin64 folder, the launcher may not work).
+1) Download the latest release
+2) Install VxKex. If it asks about updates, install them too
+3) Enable VxKex for the BeamNG executable (in the Bin64 folder) in the properties. Dont change the version it's reporting
+4) Launch the game by double clicking on the BeamNG executable (still in the Bin64 folder, the launcher might not work).
    
 
 How to install and play the game on Windows XP 64 Bit or Windows Server 2003?
 1) Make sure you have OpenGL 4.5 support (THE GAME WILL NOT WORK ON VIRTUAL MACHINES)
 2) Install the latest One-Core-API version
-3) Follow the first 3 steps, the same as Windows 7
-4) Set the compatibility mode to Windows Vista SP1 or SP2, both work (wct.exe)
-5) If you try an alpha version of this patch, launch this executable with -nocefsandbox and -disable-sandbox
-6) When you are on the main menu, re-open the compatibility tool and set it back to Windows Server 2003 SP2
-7) The game crashes when you load a map? Retry but this time in another spawn point (still in the same map as you choosed before)
+3) Download the latest release
+4) Extract the ZIP file, copy everything in it
+5) Paste all files into your BeamNG Bin64 folder
+6) Set the compatibility mode to Windows Vista SP1 or SP2, both work (wct.exe)
+7) If you try an alpha version of this patch, launch this executable with -nocefsandbox and -disable-sandbox
+8) When you are on the main menu, re-open the compatibility tool and set it back to Windows Server 2003 SP2
+9) The game crashes when you load a map? Retry but this time in another spawn point (still in the same map as you choosed before)
 
 ![0-34-on-windows-xp-v0-a5kz1k9491ng1](https://github.com/user-attachments/assets/4e9ac472-c88d-4ef8-9d0e-78baf6e8b1bb)
