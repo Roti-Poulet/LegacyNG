@@ -5,7 +5,7 @@ If you use LegacyNG for a YouTube video, please add the link to this repository 
 
 For Windows XP, One-Core-API 4.x.x is NEEDED
 
-For Windows 7, VxKex is not needed (and DON'T enable it if you are using LegacyNG b1.0.0 or newer)
+For Windows 7, VxKex is not needed and DON'T enable it (if you are using LegacyNG b1.0.0 or newer)
 
 Content mods are supported, but some like Zeit's and TEON's Graphics mod, may break the game, uninstall them. GFX Suite and CK's Graphics mod are also supported
 
