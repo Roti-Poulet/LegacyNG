@@ -3,11 +3,11 @@ A project that aims to restore compatibility of the game BeamNG with older OS li
 
 If you use LegacyNG for a YouTube video, please add the link to this repository in both your video and your video description.
 
-For Windows XP, One-Core-API 4.x.x is NEEDED
+For Windows XP, One-Core-API 4.x.x is NEEDED. Native support isn't planned to do
 
 For Windows 7, VxKex is not needed and DON'T enable it (if you are using LegacyNG b1.0.0 or newer)
 
-Content mods are supported, but some like Zeit's and TEON's Graphics mod, may break the game, uninstall them. GFX Suite and CK's Graphics mod are also supported
+Content mods are supported, but some like Zeit's and TEON's Graphics mod may break the game, uninstall them. GFX Suite and CK's Graphics mod are also supported
 
 Compatibility: 
 Windows XP x64: Up to BeamNG 0.34 [0.36 is experimental with a lot of bugs and crashes]. Workarounds are also needed (scroll down to find them)
