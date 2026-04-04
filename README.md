@@ -13,6 +13,7 @@ Compatibility:
 Windows XP x64: Up to BeamNG 0.34 [0.36 is experimental with a lot of bugs and crashes]. Workarounds are also needed (scroll down to find them)
 
 Windows Vista SP2 x64: Up to BeamNG 0.38 (latest)
+
 Windows 7 SP1 x64: Up to BeamNG 0.38 (latest)
 
 THIS PROJECT IS CURRENTLY WORK IN PROGRESS, EXPECT MANY CRASHES AND RANDOM BUGS !!!!
