@@ -12,7 +12,7 @@ Content mods are supported, but some like Zeit's and TEON's Graphics mod, may br
 Compatibility: 
 Windows XP x64: Up to BeamNG 0.34 [0.36 is experimental with a lot of bugs and crashes]. Workarounds are also needed (scroll down to find them)
 
-Windows Vista: Planned to do, WIP
+Windows Vista: Planned to do, WIP. You can test Windows 7 (NT 6.1) patches on Vista but they may not work.
 
 Windows 7 x64: Up to BeamNG 0.38 (latest)
 
