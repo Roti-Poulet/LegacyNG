@@ -1,5 +1,5 @@
 # LegacyNG.drive
-A project that aims to restore compatibility of the game BeamNG with older OS like Windows XP and Windows 7
+A project that aims to restore compatibility of the game BeamNG with older OS like Windows XP and Windows 7.
 
 If you use LegacyNG for a YouTube video, please add the link to this repository in both your video and your video description.
 
