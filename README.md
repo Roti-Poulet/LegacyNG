@@ -26,7 +26,7 @@ How to install (Windows 7)?
    
 
 How to install and play the game on Windows XP 64 Bit or Windows Server 2003?
-1) Make sure you have OpenGL 4.5 support (THE GAME WILL NOT WORK ON VIRTUAL MACHINES)
+1) Make sure you have OpenGL 4.5 support (The game will not work in virtual machines in a hardware-accelerated way!)
 2) Install the latest One-Core-API version
 3) Download the latest release
 4) Extract the ZIP file, copy everything in it
