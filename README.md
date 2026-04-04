@@ -3,7 +3,7 @@ A project that aims to restore compatibility of the game BeamNG with older OS li
 
 If you use LegacyNG for a YouTube video, please add the link to this repository in both your video and your video description.
 
-For Windows XP, One-Core-API 4.x.x is NEEDED. Native support isn't planned to do
+For Windows XP, One-Core-API 4.x.x is NEEDED. Native support isn't planned to do.
 
 For Windows 7, VxKex is not needed and DON'T enable it (if you are using LegacyNG b1.0.0 or newer)
 
