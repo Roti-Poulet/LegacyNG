@@ -47,4 +47,6 @@ Cool, but how can I do the same thing for other programs and games?
 Simple, open the EXE of your game (the real EXE, not the launcher/steam) with Dependency Walker. If imports are missing/highlighted in red, add/replace the problematic(s) DLLs to newer ones (I recommend from DLLme). If you try to paste a DLL and the game doesnt load it, make sure its named correctly, and if it is, it is a System DLL. To fix imports caused by this type of DLLs, use Extended Kernels, and if it still doesnt work, try with wrappers. If you are on Windows 7+, only wrappers will work (VxKex is wrapper-based).
 If the program/game is crashing in a specific state, use x64dbg (or x32dbg if your game is 32 bit), and check everything the EXE does just before it crashes.
 
+Want to talk with me?
+Add me on discord: roti_poulet
 ![0-34-on-windows-xp-v0-a5kz1k9491ng1](https://github.com/user-attachments/assets/4e9ac472-c88d-4ef8-9d0e-78baf6e8b1bb)
