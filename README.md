@@ -1,6 +1,8 @@
 # LegacyNG.drive
 A project that aims to restore compatibility of the game BeamNG with older OS like Windows XP and Windows 7.
 
+Showcase video: https://www.youtube.com/watch?v=1Oc4PnIoBp8
+
 If you use LegacyNG for a YouTube video, please add the link to this repository in both your video and your video description.
 
 For Windows XP, One-Core-API 4.x.x is NEEDED. Native support isn't planned to do.
