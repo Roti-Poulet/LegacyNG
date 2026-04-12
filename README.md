@@ -20,6 +20,15 @@ Windows 7 SP1 x64: Up to BeamNG 0.38 (latest)
 
 THIS PROJECT IS CURRENTLY WORK IN PROGRESS, EXPECT MANY CRASHES AND RANDOM BUGS !!!!
 
+---------- Requirements (NT 6) ----------
+- Dual Core CPU
+- 12 GB RAM
+- A DirectX11 capable GPU (HD 5xxx+ or GTX 4xx+)
+
+---------- Requirements (NT 5.2) ----------
+- High frequency (3 GHz+) Dual Core CPU
+- 8 GB RAM
+- A OpenGL 4.x capable GPU (HD 5xxx+ or GTX 4xx+). A OpenGL 4.4 GPU (HD 7xxx+ or GTX 4xx+) is recommended.
 
 How to install (Windows 7)?
 1) Download the latest release
