@@ -12,7 +12,7 @@ For Windows 7, VxKex is not needed and DON'T enable it (if you are using LegacyN
 Content mods are supported, but some like Zeit's and TEON's Graphics mod may break the game, uninstall them. GFX Suite and CK's Graphics mod are also supported
 
 Compatibility: 
-Windows XP x64: Up to BeamNG 0.34 [0.36 is experimental with a lot of bugs and crashes]. Workarounds are also needed (scroll down to find them)
+Windows XP x64: Up to BeamNG 0.34 [0.38 is experimental with a lot of bugs and crashes]. Workarounds are also needed (scroll down to find them)
 
 Windows Vista SP2 x64: Up to BeamNG 0.38 (latest)
 
