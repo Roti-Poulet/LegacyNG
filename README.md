@@ -62,7 +62,7 @@ Want to talk with me?
 
 Add me on discord: roti_poulet
 
-![0-34-on-windows-xp-v0-a5kz1k9491ng1](https://github.com/user-attachments/assets/4e9ac472-c88d-4ef8-9d0e-78baf6e8b1bb)
+<img width="1280" height="1024" alt="latest-beamng-running-on-windows-xp-and-7-v0-r53qdom0zlug1" src="https://github.com/user-attachments/assets/ecaeaabe-f8a5-4970-961c-3adaa4dd389e" />
 
 Image by Eazyblack:
 <img width="1319" height="776" alt="vistaPT" src="https://github.com/user-attachments/assets/6a7053bd-0a18-48a6-8a7a-52163be03701" />
