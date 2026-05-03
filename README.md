@@ -31,21 +31,20 @@ THIS PROJECT IS CURRENTLY WORK IN PROGRESS, EXPECT MANY CRASHES AND RANDOM BUGS 
 - A OpenGL 4.5 capable GPU (HD 77xx+ (GCN) or GTX 5xx+)
 
 How to install (Windows 7)?
-1) Download the latest release
-2) Install VxKex. If it asks about updates, install them too
-3) Enable VxKex for the BeamNG executable (in the Bin64 folder) in the properties. Dont change the version it's reporting
-4) Launch the game by double clicking on the BeamNG executable (still in the Bin64 folder, the launcher might not work).
-   
+1) Download the latest release of LegacyNG
+2) Copy and paste the files in the ZIP file to the Bin64 directory
+3) Launch the game as usual (DirectX is recommended but Vulkan also works)
 
 How to install and play the game on Windows XP 64 Bit or Windows Server 2003?
 1) Make sure you have OpenGL 4.5 support (The game will not work in virtual machines in a hardware-accelerated way!)
-2) Install the latest One-Core-API version
+2) Install the latest One-Core-API Canary version, which you can also find on the release tab
 3) Download the latest release
-4) Extract the ZIP file, copy everything in it
-5) Paste all files into your BeamNG Bin64 folder
+4) Extract the 7zip file
+5) Copy the "content" folder from your genuine BeamNG installation to where you extracted the files (it should be next to BeamNG.drive.exe (not the x64 version) and the Bin64 folder)
+-------------------- To do every time you open the game --------------------
 6) Set the compatibility mode to Windows Vista SP1 or SP2, both work (wct.exe)
-7) If you try an alpha version of this patch, launch this executable with -nocefsandbox and -disable-sandbox
-8) When you are on the main menu, re-open the compatibility tool and set it back to Windows Server 2003 SP2
+7) Go to the Bin64 folder and execute BeamNG.drive.x64.exe by double clicking on it. The launcher will not work, its fine
+8) When you are on the BeamNG main menu, re-open the compatibility tool and set it back to Windows Server 2003 SP2
 9) The game crashes when you load a map? Retry but this time in another spawn point (still in the same map as you choosed before)
 
 Can I fork your project?
