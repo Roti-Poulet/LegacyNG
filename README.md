@@ -30,15 +30,21 @@ THIS PROJECT IS CURRENTLY WORK IN PROGRESS, EXPECT MANY CRASHES AND RANDOM BUGS 
 - 8 GB RAM
 - A OpenGL 4.5 capable GPU (HD 77xx+ (GCN) or GTX 5xx+)
 
-How to install (Windows 7)?
-1) Download the latest release of LegacyNG
+How to install on Windows 7 (64 bit)?
+1) Download the latest release of LegacyNG for NT 6.1
 2) Copy and paste the files in the ZIP file to the Bin64 directory
 3) Launch the game as usual (DirectX is recommended but Vulkan also works)
 
-How to install and play the game on Windows XP 64 Bit or Windows Server 2003?
+How to install on Windows Vista (64 bit)?
+1) Download the latest release of LegacyNG for NT 6
+2) Install the update in the zip file, and then reboot your pc
+3) Copy and paste the files in the ZIP file to the Bin64 directory
+4) Launch the game as usual in DirectX mode
+
+How to install and play the game on Windows XP 64 Bit or Windows Server 2003 64 Bit?
 1) Make sure you have OpenGL 4.5 support (The game will not work in virtual machines in a hardware-accelerated way!)
 2) Install the latest One-Core-API Canary version, which you can also find on the release tab
-3) Download the latest release
+3) Download the latest release of LegacyNG for NT 5.2
 4) Extract the 7zip file
 5) Copy the "content" folder from your genuine BeamNG installation to where you extracted the files (it should be next to BeamNG.drive.exe (not the x64 version) and the Bin64 folder)
 -------------------- To do every time you open the game --------------------
