@@ -12,7 +12,7 @@ For Windows 7, VxKex is not needed and DON'T enable it (if you are using LegacyN
 Content mods are supported, but some like Zeit's and TEON's Graphics mod may break the game, uninstall them. GFX Suite and CK's Graphics mod are also supported
 
 Compatibility: 
-Windows XP x64: Up to BeamNG 0.34 [0.38 is experimental with a lot of bugs and crashes]. Workarounds are also needed (scroll down to find them)
+Windows XP x64: Up to BeamNG 0.38 (latest). The current version of One-Core-API Binary (4.0.7) or Canary (4.1.3, less stable and older) is enough to run the game without my patches. I'll stop releasing patches until it becomes incompatible with Windows XP even with One-Core-API
 
 Windows Vista SP2 x64: Up to BeamNG 0.38 (latest)
 
@@ -28,7 +28,7 @@ THIS PROJECT IS CURRENTLY WORK IN PROGRESS, EXPECT MANY CRASHES AND RANDOM BUGS 
 ---------- Requirements (NT 5.2) ----------
 - High frequency (3 GHz+) Dual Core CPU
 - 8 GB RAM
-- A OpenGL 4.5 capable GPU (HD 77xx+ (GCN) or GTX 5xx+)
+- A OpenGL 4.5 capable GPU (HD 77xx+ (GCN+) or GTX 5xx+)
 
 How to install on Windows 7 (64 bit)?
 1) Download the latest release of LegacyNG for NT 6.1
@@ -53,6 +53,12 @@ How to install and play the game on Windows XP 64 Bit or Windows Server 2003 64 
 8) When you are on the BeamNG main menu, re-open the compatibility tool and set it back to Windows Server 2003 SP2
 9) The game crashes when you load a map? Retry but this time in another spawn point (still in the same map as you choosed before)
 
+Before submitting an issue, please check if a workaround has been already found:
+
+Workarounds:
+-If you are getting a memory related error with Vulkan or a weird DirectX11 error on NT 6.1 (Windows 7) or older, set your pagefile size to 4096 - 16384. It will stop the game from crashing if, for example, many traffic cars are spawned (20 or more). Don't worry, it will not use it (it just bypasses a check that was broken by k32wrap.dll, the wrapper made by Eazyblack and cannot be fixed by me). A Windows warning may still appear about low ram but click on "Cancel" and enjoy the game!
+
+
 Can I fork your project?
 
 Absolutely! This project is made to help as most people as I can, so you are free to do modifications and tests to my work, but please give credits :D .
@@ -60,7 +66,7 @@ Absolutely! This project is made to help as most people as I can, so you are fre
 
 Cool, but how can I do the same thing for other programs and games?
 
-Simple, open the EXE of your game (the real EXE, not the launcher/steam) with Dependency Walker. If imports are missing/highlighted in red, add/replace the problematic(s) DLLs to newer ones (I recommend from DLLme). If you try to paste a DLL and the game doesnt load it, make sure its named correctly, and if it is, it is a System DLL. To fix imports caused by this type of DLLs, use Extended Kernels, and if it still doesnt work, try with wrappers. If you are on Windows 7+, only wrappers will work (VxKex is wrapper-based).
+Simple, open the EXE of your game (the real EXE, not the launcher/steam) with Dependency Walker. If imports are missing/highlighted in red, add/replace the problematic(s) DLLs to newer ones (I recommend from DLLme). If you try to paste a DLL and the game doesnt load it, make sure its named correctly, and if it is, it is a System DLL. To fix imports caused by this type of DLLs, use Extended Kernels, and if it still doesnt work, try with wrappers.
 If the program/game is crashing in a specific state, use x64dbg (or x32dbg if your game is 32 bit), and check everything the EXE does just before it crashes.
 
 Want to talk with me / having problems or questions?
@@ -68,8 +74,6 @@ Want to talk with me / having problems or questions?
 Add me on discord: roti_poulet
 
 <img width="1280" height="1024" alt="latest-beamng-running-on-windows-xp-and-7-v0-r53qdom0zlug1" src="https://github.com/user-attachments/assets/ecaeaabe-f8a5-4970-961c-3adaa4dd389e" />
-
-
 
 Image by Eazyblack:
 <img width="1319" height="776" alt="vistaPT" src="https://github.com/user-attachments/assets/6a7053bd-0a18-48a6-8a7a-52163be03701" />
