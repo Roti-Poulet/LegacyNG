@@ -56,6 +56,7 @@ How to install and play the game on Windows XP 64 Bit or Windows Server 2003 64 
 Before submitting an issue, please check if a workaround has been already found:
 
 Workarounds:
+
 -If you are getting a memory related error with Vulkan or a weird DirectX11 error on NT 6.1 (Windows 7) or older, set your pagefile size to 4096 - 16384. It will stop the game from crashing if, for example, many traffic cars are spawned (20 or more). Don't worry, it will not use it (it just bypasses a check that was broken by k32wrap.dll, the wrapper made by Eazyblack and cannot be fixed by me). A Windows warning may still appear about low ram but click on "Cancel" and enjoy the game!
 
 
