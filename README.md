@@ -57,8 +57,16 @@ Before submitting an issue, please check if a workaround has been already found:
 
 Workarounds:
 
--If you are getting a memory related error with Vulkan or a weird DirectX11 error on NT 6.1 (Windows 7) or older, set your pagefile size to 4096 - 16384. It will stop the game from crashing if, for example, many traffic cars are spawned (20 or more). Don't worry, it will not use it (it just bypasses a check that was broken by k32wrap.dll, the wrapper made by Eazyblack and cannot be fixed by me). A Windows warning may still appear about low ram but click on "Cancel" and enjoy the game!
+-If you are getting a memory related error with Vulkan or a weird DirectX11 error on NT 6.1 (Windows 7) or older, set your pagefile size to 4096 (min) and 24576 (max). It will stop the game from crashing if, for example, many traffic cars are spawned (20 or more, depending on the map). Don't worry, it will not use it (it just bypasses a check that was broken by k32wrap.dll, the wrapper made by Eazyblack and cannot be fixed by me). A Windows warning may still appear about low ram but click on "Cancel" and enjoy the game!
 
+Why making this project?
+
+I made this because I like the Windows 7 aero theme and BeamNG. When I first got a pc, I installed Windows 7 on it, and I got great memories with it. Even if the pc was very slow (Core 2 Quad q6600, AMD HD 7450 (garbage GPU), 8 GB (4x 2GB) of 800 MHz DDR2 RAM, SATA 7200 RPM HDD) the system was very quick and responsive. I was sad about BeamNG 0.35 dropping support for Windows 7, and its why I "upgraded" to Windows 10 and the pc became unusable and unstable, BSoD after BSoD, failing hard drive... I have now a way better pc (Ryzen 5 2600, GTX 1050 TI, 24 GB of 2660 MHz DDR4 RAM), and I wanted to go back to Windows 7, mainly because of the Aero theme, its why I made LegacyNG.
+
+ Is it useful in the first place?
+
+Yeah, I'm very proud about me and Eazyblack made! I mean, its still better than watching YouTube and playing Minecraft all day :D .
+Performance side, Windows 7 has a WAY better CPU management and a bit better GPU drivers. I'd say I got a 20% FPS increase by "downgrading" to Windows 7. If you have a quite old pc and wanna play with a lot of traffic cars, consider giving Windows 7 a try! For example, my Ryzen 5 2600 (6 cores with Hyper-Threading overclocked to 4 GHz) was struggleing with 12 cars on Windows 10 and it can manage 22 of them fine on Windows 7 (50 FPS with 22 traffic cars with a 8 year old CPU with Medium/High settings is insane! Remember that even top of the line hardware can struggle running BeamNG with traffic cars).
 
 Can I fork your project?
 
