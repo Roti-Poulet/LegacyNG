@@ -20,12 +20,12 @@ Windows 7 SP1 x64: Up to BeamNG 0.38 (latest)
 
 THIS PROJECT IS CURRENTLY WORK IN PROGRESS, EXPECT MANY CRASHES AND RANDOM BUGS !!!!
 
----------- Requirements (NT 6) ----------
+---------- Requirements (NT 6/Vista) ----------
 - Dual Core CPU
 - 12 GB RAM
 - A DirectX11 capable GPU (HD 5xxx+ or GTX 4xx+)
 
----------- Requirements (NT 5.2) ----------
+---------- Requirements (NT 5.2/Windows XP 64 bit) ----------
 - High frequency (3 GHz+) Dual Core CPU
 - 8 GB RAM
 - A OpenGL 4.5 capable GPU (HD 77xx+ (GCN+) or GTX 5xx+)
@@ -36,7 +36,7 @@ How to install on Windows 7 (64 bit)?
 3) Launch the game as usual (DirectX is recommended but Vulkan also works)
 
 How to install on Windows Vista (64 bit)?
-1) Download the latest release of LegacyNG for NT 6
+1) Download the latest release of LegacyNG for NT 6.0
 2) Install the update in the zip file, and then reboot your pc
 3) Copy and paste the files in the ZIP file to the Bin64 directory
 4) Launch the game as usual in DirectX mode
