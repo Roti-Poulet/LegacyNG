@@ -9,7 +9,7 @@ For Windows XP, One-Core-API 4.x.x is NEEDED. Native support isn't planned to do
 
 For Windows 7, VxKex is not needed and DON'T enable it (if you are using LegacyNG b1.0.0 or newer)
 
-Content mods are supported, but some like Zeit's and TEON's Graphics mod may break the game, uninstall them. GFX Suite and CK's Graphics mod are also supported
+Content mods are supported, but some like Zeit's Graphics mod may break the game, uninstall them. GFX Suite, TEON's and CK's Graphics mod are supported.
 
 Compatibility: 
 Windows XP x64: Up to BeamNG 0.38 (latest). The current version of One-Core-API Binary (4.0.7) or Canary (4.1.3, less stable and older) is enough to run the game without my patches. I'll stop releasing patches until it becomes incompatible with Windows XP even with One-Core-API
