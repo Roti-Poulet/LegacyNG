@@ -47,6 +47,7 @@ How to install and play the game on Windows XP 64 Bit or Windows Server 2003 64 
 3) Download the latest release of LegacyNG for NT 5.2
 4) Extract the 7zip file
 5) Copy the "content" folder from your genuine BeamNG installation to where you extracted the files (it should be next to BeamNG.drive.exe (not the x64 version) and the Bin64 folder)
+
 -------------------- To do every time you open the game --------------------
 6) Set the compatibility mode to Windows Vista SP1 or SP2, both work (wct.exe)
 7) Go to the Bin64 folder and execute BeamNG.drive.x64.exe by double clicking on it. The launcher will not work, its fine
