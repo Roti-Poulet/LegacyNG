@@ -5,16 +5,19 @@ Showcase video: https://www.youtube.com/watch?v=1Oc4PnIoBp8
 
 If you use LegacyNG for a YouTube video, please add the link to this repository in both your video and your video description.
 
-For Windows XP, One-Core-API 4.x.x is NEEDED. Native support isn't planned to do.
-
 For Windows 7, VxKex is not needed and DON'T enable it (if you are using LegacyNG b1.0.0 or newer)
 
 Content mods are supported, but some like Zeit's Graphics mod may break the game, uninstall them. GFX Suite, TEON's and CK's Graphics mod are supported.
 
-Compatibility: 
-Windows XP x64: Up to BeamNG 0.38 (latest). The current version of One-Core-API Binary (4.0.7) or Canary (4.1.3, less stable and older) is enough to run the game without my patches. I'll stop releasing patches until it becomes incompatible with Windows XP even with One-Core-API
+Notes:
 
-Windows Vista SP2 x64: Up to BeamNG 0.38 (latest)
+LegacyNG is an experimental project, you may encounter errors, bugs and crashes especially on Windows XP. BeamNG is only really working on NT 6.0 (Vista) and up
+
+Compatibility: 
+
+Windows XP x64: Up to BeamNG 0.38 (latest). The current version of One-Core-API Binary (4.0.7) or Canary (4.1.3, less stable and older) is enough to run the game without my patches with a simple DWrite tweak (1.2.0?). "Advenced" features like spawning multiple cars will crash the game
+
+Windows Vista SP2 x64 (Platform updates are needed!): Up to BeamNG 0.38 (latest). The Vista patch is basically a port of the Windows 7 patch, same files but with some additionnal wrappers, and for some DLLs like Kernel32, 2 layers of wrappers.
 
 Windows 7 SP1 x64: Up to BeamNG 0.38 (latest)
 
