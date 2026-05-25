@@ -1,0 +1,4 @@
+I couldn't find any of these DLLs online that don't requires missing kernel32 functions, so I coded them myself.
+
+These DLLs are made to send "working" but fake information and avoid BeamNG crashes at launch.
+I don't recommend to use them for other programs.
