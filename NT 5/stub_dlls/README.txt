@@ -1,1 +1,1 @@
-Only use these files if you rae using an older version of One-Core-API (at least before 4.0.7)
+Only use these files if you are using an older version of One-Core-API (at least before 4.0.7)! This will not be useful in any way if you are using One-Core-API 4.0.7 (or One-Core-API 4.1.1) or later.
