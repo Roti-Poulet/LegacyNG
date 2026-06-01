@@ -21,15 +21,10 @@ Windows 7 SP1 x64: Up to BeamNG 0.38 (latest)
 
 **THIS PROJECT IS CURRENTLY IN WORK IN PROGRESS, EXPECT MANY CRASHES AND RANDOM BUGS !!!!**
 
----------- Requirements (NT 6.x, BeamNG 0.38) ----------
+---------- Requirements (NT 6.x, latest BeamNG) ----------
 - Dual Core CPU
 - 12 GB RAM
 - A DirectX11 capable GPU (HD 5xxx+ or GTX 4xx+)
-
----------- Requirements (NT 6.x, upcoming BeamNG 0.39) ----------
-- Dual Core CPU
-- 10 GB RAM
-- A Vulkan 1.2 capable GPU (HD 77xx+ (GCN+) or GTX 6xx+ (Kepler+))
 
 ***How to install on Windows 7 (64 bit)?***
 1) Download the latest release of LegacyNG for NT 6.1
@@ -40,7 +35,7 @@ Windows 7 SP1 x64: Up to BeamNG 0.38 (latest)
 1) Download the latest release of LegacyNG for NT 6.0
 2) Install the update in the zip file, and then reboot your pc
 3) Copy and paste the files in the ZIP file to the Bin64 directory
-4) Launch the game as usual in DirectX mode
+4) Launch the game as usual in DirectX mode. (Vulkan support is possible and planned)
 
 
 **Before submitting an issue, please check if a workaround has been already found:**
@@ -59,6 +54,7 @@ I made this because I like the Windows 7 aero theme and BeamNG. When I first got
 
 Yeah, I'm very proud about me and Eazyblack made! I mean, its still better than watching YouTube and playing Minecraft all day :D .
 Performance side, Windows 7 has a WAY better CPU management and a bit better GPU drivers. I'd say I got a 20% FPS increase by "downgrading" to Windows 7. If you have a quite old pc and wanna play with a lot of traffic cars, consider giving Windows 7 a try! For example, my Ryzen 5 2600 (6 cores with Hyper-Threading overclocked to 4 GHz) was struggleing with 12 cars on Windows 10 and it can manage 22 of them fine on Windows 7 (50 FPS with 22 traffic cars with a 8 year old CPU with Medium/High settings is insane! Remember that even top of the line hardware can struggle running BeamNG with traffic cars).
+Most extended kernels out there (like VxKex/ViKex and Second System) are not fully supporting BeamNG. For example, the game may crash if you spawn multiple cars, so even if you have an extended kernel installed, I still recommend installing LegacyNG.
 
 ***Can I fork your project?***
 
