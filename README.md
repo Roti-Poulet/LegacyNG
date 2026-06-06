@@ -9,10 +9,6 @@ For Windows 7, VxKex is not needed and DON'T enable it (if you are using LegacyN
 
 Content mods are supported, but some like Zeit's Graphics mod may break the game, uninstall them. GFX Suite, TEON's and CK's Graphics mod are supported.
 
-**Notes:**
-
-LegacyNG is an experimental project, you may encounter errors, bugs and crashes. BeamNG is only really working on NT 6.0 (Vista) and up
-
 **Compatibility:**
 
 Windows Vista SP2 x64 (Platform updates are needed!): Up to BeamNG 0.38 (latest). The Vista patch is basically a port of the Windows 7 patch, same files but with some additionnal wrappers, and for some DLLs like Kernel32, 2 layers of wrappers.
