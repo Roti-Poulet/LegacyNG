@@ -1,5 +1,5 @@
 # LegacyNG.drive
-A project that aims to restore compatibility of the game BeamNG with older OS like Windows XP and Windows 7.
+A project that aims to restore compatibility of the game BeamNG with older OS like Windows Vista and Windows 7.
 
 Showcase video: https://www.youtube.com/watch?v=1Oc4PnIoBp8
 
@@ -35,7 +35,7 @@ Windows 7 SP1 x64: Up to BeamNG 0.38 (latest)
 1) Download the latest release of LegacyNG for NT 6.0
 2) Install the update in the zip file, and then reboot your pc
 3) Copy and paste the files in the ZIP file to the Bin64 directory
-4) Launch the game as usual in DirectX mode. (Vulkan support is possible and planned)
+4) Launch the game as usual in DirectX mode. Vulkan isnt recommended for now, even if the game does start it's not stable
 
 
 **Before submitting an issue, please check if a workaround has been already found:**
@@ -75,3 +75,5 @@ One-Core-API 4.0.7 with a DWrite tweak:
 
 Image by Eazyblack:
 <img width="1319" height="776" alt="vistaPT" src="https://github.com/user-attachments/assets/6a7053bd-0a18-48a6-8a7a-52163be03701" />
+
+Made with love from France :D
