@@ -42,6 +42,8 @@ Workarounds:
 
 -If BeamMP keeps connecting and disconnecting, make sure you have the latest patch of BeamMP and try to restart your game (or reboot your pc if you want to be sure)
 
+-If the game is crashing on launch on NT 6.0 (Vista), renamme CrashSender.exe (in the Bin64 folder) to CrashSender.backup. It happens because some imports of CrashSender can't be fixed because no wrapper has the missing functions (of atl.dll).
+
 ***Why making this project?***
 
 I made this because I like the Windows 7 aero theme and BeamNG. When I first got a pc, I installed Windows 7 on it, and I got great memories with it. Even if the pc was very slow (Core 2 Quad q6600, AMD HD 7450 (garbage GPU), 8 GB (4x 2GB) of 800 MHz DDR2 RAM, SATA 7200 RPM HDD) the system was very quick and responsive. I was sad about BeamNG 0.35 dropping support for Windows 7, and its why I "upgraded" to Windows 10 and the pc became unusable and unstable, BSoD after BSoD, failing hard drive... I have now a way better pc (Ryzen 5 2600, GTX 1050 TI, 24 GB of 2660 MHz DDR4 RAM), and I wanted to go back to Windows 7, mainly because of the Aero theme, its why I made LegacyNG.
