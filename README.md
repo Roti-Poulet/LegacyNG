@@ -43,7 +43,7 @@ Windows Vista SP2 x64: Up to BeamNG 0.38.3 (fix for 0.39 is coming soon...)
 
 **Workarounds:**
 
--If you are getting a memory related error with Vulkan or a weird DirectX11 error on NT 6.1 (Windows 7) or older, set your pagefile size to 4096 (min) and 24576 (max). It will stop the game from crashing if, for example, many traffic cars are spawned (20 or more, depending on the map). Don't worry, it will not use it (it just bypasses a check that was broken by k32wrap.dll, the wrapper made by Eazyblack and cannot be fixed by me). A Windows warning may still appear about low ram but click on "Cancel" and enjoy the game!
+-If you are getting a memory related error with Vulkan or a weird DirectX11 error on NT 6.1 (Windows 7) or older, set your pagefile size to 4096 (min) and 24576 (max). It will stop the game from crashing if, for example, many traffic cars are spawned (20 or more, depending on the map). Its a limitation on NT 6.2 (Windows 8.0) and older, and cannot be fixed.
 
 -If BeamMP keeps connecting and disconnecting, make sure you have the latest patch of BeamMP and try to restart your game (or reboot your pc if you want to be sure)
 
