@@ -26,18 +26,18 @@ Windows Vista SP2 x64: Up to BeamNG 0.38.3 (fix for 0.39 is coming soon...)
 **-------- Recommended requirements (NT 6.x, latest BeamNG) --------**
 - Desktop Intel Core 2 Quad / AMD FX 6xxx
 - 16 GB of RAM
-- A Vulkan 1.2 capable GPU (Nvidia GTX 6xx+, AMD Vulkan fix is planned)
+- A Vulkan 1.2.175 capable GPU (Nvidia GTX 6xx+, AMD Vulkan fix is planned)
 
 **Performance notes**
 Windows 7 is known to get better performance than Windows 10, having way less bloat, telemetry and useless kernel features, there are the FPS improvements;
--Lower RAM usage: 3.7 GB On W10, 2.7 GB on W7 (only counting in main BeamNG process, others are using the same amount of RAM anyway)
--Higher FPS (on a non RAM bottlenecked system): 59 FPS on W10, 78 on W7 / 16.7 on W10, 18.4 on W7
--Better traffic performance: 12 cars on W10, 19 cars on W7 (to get both down to 35 FPS)
+-Lower RAM usage: 3.7 GB On W10, 2.7 GB on W7 (only counting in main BeamNG process, others are using almost the same amount of RAM anyway).
+-Higher FPS (on a non RAM bottlenecked system): 59 FPS on W10, 78 on W7 / 16.7 on W10, 18.4 on W7.
+-Better traffic performance: 12 cars on W10, 19 cars on W7 (to get both down to 35 FPS).
 
 ## How to install on Windows 7 (64 bit)?
 1) Download the latest release of LegacyNG for NT 6.1
 2) Copy and paste the files in the ZIP file to the Bin64 directory
-3) Launch the game as usual (DirectX is recommended but Vulkan also works)
+3) Launch the game as usual (Vulkan mode is recommended but DirectX11 should work. Only use DirectX12 if you have an AMD GPU)
 
 ## How to install on Windows Vista (64 bit)?
 1) Download the latest release of LegacyNG for NT 6.0
