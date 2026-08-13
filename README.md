@@ -5,7 +5,7 @@ Showcase video: https://www.youtube.com/watch?v=1Oc4PnIoBp8
 
 If you use LegacyNG for a YouTube video, please add the link to this repository in both your video and your video description.
 
-For Windows 7, VxKex is not needed and DON'T enable it! SecondSystem will also break the patch, make sure it is disabled for the BeamNG executable (in the Bin64 folders)
+For Windows 7, VxKex is not needed and DON'T enable it! SecondSystem will also break the patch, make sure it is disabled for the BeamNG executable (in the Bin64 folder)
 
 Content mods are supported, but some like Zeit's Graphics mod may break the game, uninstall them. GFX Suite, TEON's + CK's Graphics mod, and the new TAA mod are supported.
 
@@ -13,7 +13,7 @@ Content mods are supported, but some like Zeit's Graphics mod may break the game
 
 ## Compatibility:
 
-Windows Vista SP2 x64 (Platform updates are needed!): Up to BeamNG 0.38 (latest). The Vista patch is basically a port of the Windows 7 patch, same files but with some additionnal wrappers, and for some DLLs like Kernel32, 2 layers of wrappers.
+Windows Vista SP2 x64 (Platform updates are needed!): Up to BeamNG 0.38. The Vista patch is basically a port of the Windows 7 patch, same files but with some additionnal wrappers, and for some DLLs like Kernel32, 2 layers of wrappers.
 
 Windows 7 SP1 x64: Up to BeamNG 0.39.4 (latest)
 Windows Vista SP2 x64: Up to BeamNG 0.38.3 (fix for 0.39 is coming soon...)
@@ -29,7 +29,7 @@ Windows Vista SP2 x64: Up to BeamNG 0.38.3 (fix for 0.39 is coming soon...)
 - A Vulkan 1.2 capable GPU (Nvidia GTX 6xx+, AMD Vulkan fix is planned)
 
 **Performance notes**
-Windows 7 is known to get better performance than Windows 10, having way less bload, telemetry and useless kernel features, there are the FPS improvements;
+Windows 7 is known to get better performance than Windows 10, having way less bloat, telemetry and useless kernel features, there are the FPS improvements;
 -Lower RAM usage: 3.7 GB On W10, 2.7 GB on W7 (only counting in main BeamNG process, others are using the same amount of RAM anyway)
 -Higher FPS (on a non RAM bottlenecked system): 59 FPS on W10, 78 on W7 / 16.7 on W10, 18.4 on W7
 -Better traffic performance: 12 cars on W10, 19 cars on W7 (to get both down to 35 FPS)
@@ -57,10 +57,6 @@ Windows 7 is known to get better performance than Windows 10, having way less bl
 
 -If the game keeps crashing after a few seconds of gameplay using Vulkan, make sure Dynamic Reflections are disabled. This is a known Nvidia issue with some graphics drivers
 
-***Why making this project?***
-
-I made this because I like the Windows 7 aero theme and BeamNG. When I first got a pc, I installed Windows 7 on it, and I got great memories with it. Even if the pc was very slow (Core 2 Quad q6600, AMD HD 7450 (garbage GPU), 8 GB (4x 2GB) of 800 MHz DDR2 RAM, SATA 7200 RPM HDD) the system was very quick and responsive. I was sad about BeamNG 0.35 dropping support for Windows 7, and its why I "upgraded" to Windows 10 and the pc became unusable and unstable, BSoD after BSoD, failing hard drive... I have now a way better pc (Ryzen 5 2600, GTX 1050 TI, 24 GB of 2660 MHz DDR4 RAM), and I wanted to go back to Windows 7, mainly because of the Aero theme, its why I made LegacyNG.
-
 ***I have installed the patch but it says VCRuntime140_1.dll is missing, what should I do?***
 
 This is a common issue, and can be fixed by uninstalling any 2015-20xx VC Runtime (maybe none are installed, its fine) and reinstalling this specific version: 14.44.35211
@@ -70,6 +66,10 @@ This is a common issue, and can be fixed by uninstalling any 2015-20xx VC Runtim
 Cracked copies of BeamNG can also run on Windows 7, you will just have to edit the kernel32.dll imports in steam_api64 (using CFF Explorer or HxD) to k32wrap.dll.
 
 But please support the BeamNG devs if you can :-)
+
+***Why making this project?***
+
+I made this because I like the Windows 7 aero theme and BeamNG. When I first got a pc, I installed Windows 7 on it, and I got great memories with it. Even if the pc was very slow (Core 2 Quad q6600, AMD HD 7450 (garbage GPU), 8 GB (4x 2GB) of 800 MHz DDR2 RAM, SATA 7200 RPM HDD) the system was very quick and responsive. I was sad about BeamNG 0.35 dropping support for Windows 7, and its why I "upgraded" to Windows 10 and the pc became unusable and unstable, BSoD after BSoD, failing hard drive... I have now a way better pc (Ryzen 5 2600, GTX 1050 TI, 24 GB of 2660 MHz DDR4 RAM), and I wanted to go back to Windows 7, mainly because of the Aero theme, its why I made LegacyNG.
 
 ***What do you think about LegacyNG?***
 
